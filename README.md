@@ -6,7 +6,14 @@
     • git status -s
 # Lleva los archivos seleccionados al repositorio local
     • git commit -m ""
+    • git commit -am "" --> Agrega y hace el commit a la ves
 # Verificar los commits que hicimos (--oneline --> para que nos muestre de forma resumida)
     • git log --oneline
 # Restaura los archivos hasta el commit seleccionado, eliminando los commit q esten despues de ese
     • git reset --hard <ID del commit>
+
+
+**GITHUB**
+
+
+
