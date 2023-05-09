@@ -18,6 +18,8 @@
 
 # Subir el repositorio local a GitHub
     • git remote add origin https://github.com/RoRoVR/git-github.git
+    • git branch -M main
+    • git push -u origin main
 
 
 
