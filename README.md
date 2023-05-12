@@ -1,3 +1,5 @@
+**GIT**
+
 # Inicia el repositorio en la carpeta seleccionada
     • git init
 # Hace un seguimiento al archivo seleccionado
@@ -12,7 +14,6 @@
     • git log --oneline
 # Restaura los archivos hasta el commit seleccionado, eliminando los commit q esten despues de ese
     • git reset --hard <ID del commit>
-
 
 **GITHUB**
 
@@ -34,8 +35,11 @@
 # Lista de Ramas y rama activa
     • git branch
 # Cambiar de rama
-    •git checkout <nombre>
-
+    • git checkout <nombre>
+# Unir 2 Ramas
+    • git merge <rama a unir>
+# Eliminar Rama
+    • git branch -d <nombreRama>
 
 
 
