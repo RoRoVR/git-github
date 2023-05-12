@@ -20,6 +20,8 @@
     • git remote add origin https://github.com/RoRoVR/git-github.git --> Indica el lugar del repositorio online
     • git branch -M main --> Indica la rama a la que se va a subir
     • git push -u origin main --> Sube los archivo al repositorio en GitHub
+# Clonar repositorio de GitHub a Local
+    • git pull
 
 
 
