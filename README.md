@@ -22,7 +22,10 @@
     • git push -u origin main --> Sube los archivo al repositorio en GitHub
 # Clonar repositorio de GitHub a Local
     • git pull
-    • EDITANDO DESDE GITHUB
+# Agregar etiquetas
+    • git tag <version> -m "descripcion"
+    
+
 
 
 
