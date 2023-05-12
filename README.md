@@ -21,10 +21,22 @@
     • git branch -M main --> Indica la rama a la que se va a subir
     • git push -u origin main --> Sube los archivo al repositorio en GitHub
 # Clonar repositorio de GitHub a Local
-    • git pull
+    • git pull --> Realiza los cambios hechos en GitHub en Local
+    • git clone <url>
 # Agregar etiquetas
     • git tag <version> -m "descripcion"
-    
+    • git push --tag --> sube la las TAG creadas
+
+**RAMAS O BRANCH**
+
+# Crear rama nueva
+    • git branch <nombre>
+# Lista de Ramas y rama activa
+    • git branch
+# Cambiar de rama
+    •git checkout <nombre>
+
+
 
 
 
